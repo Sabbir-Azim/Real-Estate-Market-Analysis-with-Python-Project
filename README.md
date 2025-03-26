@@ -44,6 +44,14 @@ This project involves a comprehensive analysis of real estate data to gain insig
 
 5. **Data Interpretation:**
    - Draw conclusions about customer profiles and building characteristics.
+   - 
+![deal_satisfaction_by_country](https://github.com/user-attachments/assets/7f97e2c9-a611-4320-8f15-0b5c4552080d)
+
+![total_revenue_per_year_in_M_line_chart](https://github.com/user-attachments/assets/5ed6b04f-d497-4c4f-aa38-bef7e8cd6511)
+
+![US_segmentation_by_state_pareto_diagram](https://github.com/user-attachments/assets/1a890621-8418-4625-861a-ad7f7658ed73)
+
+![number_of_sales_per_year_by_building_stacked_area_chart_v2](https://github.com/user-attachments/assets/3e833f34-a6df-428a-b2a9-d5f5abadf1d1)
 
 ## Conclusion
 
